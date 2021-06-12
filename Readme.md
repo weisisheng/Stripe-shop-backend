@@ -1,6 +1,6 @@
 # Stripe Integrations for Payment and Terminal using Serverless
 
-This is a collection of lambda functions and DynamoDb tables that can be run locally using the Serverless framework
+This is a collection of Lambda functions and DynamoDb tables that can be run locally using the Serverless framework.
 
 Developers with AWS experience can also deploy this to their AWS account to add a custom domain name, deploy Lambda functions, store DynamoDB data and use CloudFront CDN.
 
@@ -70,7 +70,7 @@ Serverless: Enter "rp" to replay the last request
 
 ## Capturing Stripe webhooks
 
-You can recieve webhooks from Stripe to your local development environment using Stripe CLI
+You can receive webhooks from Stripe to your local development environment using Stripe CLI.
 
 ### Install Stripe CLI
 
